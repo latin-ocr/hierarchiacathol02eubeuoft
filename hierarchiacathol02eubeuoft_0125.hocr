@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hierarchiacathol02eubeuoft/hierarchiacathol02eubeuoft_0125.png"; bbox 0 0 2436 3328; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 792 842 1532 910">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 792 842 1532 910">
+     <span class='ocr_line' id='line_1_1' title="bbox 792 842 1532 910; baseline 0.005 -4"><span class='ocrx_word' id='word_1_1' title='bbox 792 842 1045 907; x_wconf 82' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_2' title='bbox 1091 843 1532 910; x_wconf 78' lang='lat' dir='ltr'>SECUNDUS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 161 1155 2175 1789">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 161 1155 2175 1789">
+     <span class='ocr_line' id='line_1_2' title="bbox 1086 1155 1237 1256; baseline 0.013 -1"><span class='ocrx_word' id='word_1_3' title='bbox 1086 1155 1237 1256; x_wconf 81' lang='lat' dir='ltr'><strong>DE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 161 1412 2175 1549; baseline 0.009 -37"><span class='ocrx_word' id='word_1_4' title='bbox 161 1412 1030 1540; x_wconf 79' lang='lat' dir='ltr'><strong>PATRIARCHIS,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1125 1419 2175 1549; x_wconf 62' lang='lat' dir='ltr'><strong>ARCHIEPISCOPIS,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 840 1682 1479 1789; baseline 0.011 -9"><span class='ocrx_word' id='word_1_6' title='bbox 840 1682 1479 1789; x_wconf 66' lang='lat' dir='ltr'><strong>EPIb&#39;COPIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 734 2148 1575 2200">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 734 2148 1575 2200">
+     <span class='ocr_line' id='line_1_5' title="bbox 734 2148 1575 2200; baseline 0.008 -4"><span class='ocrx_word' id='word_1_7' title='bbox 734 2148 1363 2200; x_wconf 19' lang='lat' dir='ltr'><strong>*QM*QQQW</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1414 2175 1575 2178; x_wconf 32' lang='grc' dir='ltr'><strong>ψήψ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
